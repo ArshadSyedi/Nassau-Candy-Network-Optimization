@@ -1,6 +1,6 @@
 # Executive Summary: Nassau Candy Network Planning
 
-**Prepared by:** [Your name] · **Cohort:** [Your cohort] · **Mentor:** [Mentor name]
+**Prepared by:** Arshad Syedi · **Cohort:** September Batch · **Mentor:** Unified Mentor.
 
 ## Objective
 
