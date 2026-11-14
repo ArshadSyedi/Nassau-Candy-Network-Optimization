@@ -1,10 +1,9 @@
 # Factory Reallocation & Shipping Optimization Recommendation System
 
-**Organization:** Nassau Candy Distributor  
-**Prepared:** 13 November 2026  
-**Prepared by:** [Add your name]  
-**Program / mentor:** [Add cohort and mentor]
-
+**Organization:** Nassau Candy Distributor. 
+**Prepared:** 13 November 2026.  
+**Prepared by:** Arshad Syedi.  
+**Program / mentor:** Batch September and Unfied mentor.
 ## Executive summary
 
 This project reviews 10,194 order-line records and builds a decision-support prototype for factory assignment analysis. The source has 18 fields covering order dates, ship mode, customer geography, product, sales, units, gross profit, and cost. No source field is blank in the supplied file. Sales and profit summaries can support descriptive business analysis.
